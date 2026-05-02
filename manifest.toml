@@ -109,7 +109,7 @@ ram.runtime = "50M"
   optional = true
   default = ""
   help.en = "This corresponds to the password for SFTP access"
-  help.fr = "Corresponds au mot de passe pour l'accès SFTP"
+  help.fr = "Correspond au mot de passe pour l'accès SFTP"
 
 [resources]
   [resources.sources.main]
